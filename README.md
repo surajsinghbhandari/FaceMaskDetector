@@ -24,15 +24,12 @@
 ## :innocent: Motivation
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
 
-## PPT and Project Report sharing costs ₹1000 ($15)
-If interested, contact me at chandrikadeb7@gmail.com
 
-# 🌟 [Purchase at a Discounted Rate](https://gum.co/GetFaceMask)
- 
-## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
+If interested, contact me at ssbhandari9990@gmail.com
 
-:computer: [Dev Link](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
+
+
+
 
 [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://face-mask--detection-app.herokuapp.com/)
 
