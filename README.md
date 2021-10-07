@@ -1,5 +1,3 @@
-# FaceMaskDetector
-detection of MASK vs No Mask
 
 
 <h1 align="center">Face Mask Detection</h1>
