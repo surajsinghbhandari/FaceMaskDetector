@@ -61,12 +61,12 @@ The images used were real images of faces wearing masks. The images were collect
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/surajsinghbhandari/FaceMaskDetector/blob/master/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ git clone https://github.com/surajsinghbhandari/FaceMaskDetector.git
 ```
 
 2. Change your directory to the cloned repo 
@@ -76,15 +76,15 @@ $ cd Face-Mask-Detection
 
 3. Create a Python virtual environment named 'test' and activate it
 ```
-$ virtualenv test
+$ conda create -n test python=3.6
 ```
 ```
-$ source test/bin/activate
+$ conda activate test
 ```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 ```
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## :bulb: Working
