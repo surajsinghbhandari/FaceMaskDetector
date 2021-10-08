@@ -105,7 +105,7 @@ $ python3 detect_mask_video.py
 
 
 #### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
+![](https://github.com/surajsinghbhandari/FaceMaskDetector/blob/main/plot.png)
 
 
 
